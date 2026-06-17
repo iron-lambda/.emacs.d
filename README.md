@@ -1,6 +1,6 @@
 # .emacs.d
 
-[![Language](https://img.shields.io/badge/language-Emacs_Lisp-7F5AB6)]()
+![Language](https://img.shields.io/badge/language-Emacs_Lisp-7F5AB6)
 [![License: MIT](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 
 A minimal Emacs configuration tailored for Racket development. Built on `use-package` with a focus on simplicity — no bloated frameworks, just the essentials for a clean and productive editing experience.
